@@ -1,0 +1,2 @@
+
+global.pontos = 0
