@@ -16,9 +16,11 @@
     {"id":{"name":"spr_max","path":"sprites/spr_max/spr_max.yy",},"order":6,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_upgrade_canela","path":"sprites/spr_upgrade_canela/spr_upgrade_canela.yy",},"order":2,},
+    {"id":{"name":"spr_engrenagem","path":"sprites/spr_engrenagem/spr_engrenagem.yy",},"order":12,},
     {"id":{"name":"spr_borda_upgrades","path":"sprites/spr_borda_upgrades/spr_borda_upgrades.yy",},"order":1,},
     {"id":{"name":"spr_fundo_max","path":"sprites/spr_fundo_max/spr_fundo_max.yy",},"order":5,},
     {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},"order":2,},
+    {"id":{"name":"obj_engrenagem","path":"objects/obj_engrenagem/obj_engrenagem.yy",},"order":2,},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},"order":0,},
   ],
   "Options": [
