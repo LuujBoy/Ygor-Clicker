@@ -3,15 +3,22 @@
   "resourceVersion": "1.6",
   "name": "Ygor Clicker",
   "resources": [
+    {"id":{"name":"spr_upgrade_peak","path":"sprites/spr_upgrade_peak/spr_upgrade_peak.yy",},"order":9,},
+    {"id":{"name":"obj_botao_play","path":"objects/obj_botao_play/obj_botao_play.yy",},"order":0,},
     {"id":{"name":"spr_fundo_upgrades","path":"sprites/spr_fundo_upgrades/spr_fundo_upgrades.yy",},"order":3,},
+    {"id":{"name":"spr_upgrade_cadu","path":"sprites/spr_upgrade_cadu/spr_upgrade_cadu.yy",},"order":10,},
+    {"id":{"name":"spr_upgrade_dobro","path":"sprites/spr_upgrade_dobro/spr_upgrade_dobro.yy",},"order":11,},
+    {"id":{"name":"spr_upgrade_max","path":"sprites/spr_upgrade_max/spr_upgrade_max.yy",},"order":8,},
     {"id":{"name":"_spr_fundo","path":"sprites/_spr_fundo/_spr_fundo.yy",},"order":4,},
     {"id":{"name":"spr_ygor","path":"sprites/spr_ygor/spr_ygor.yy",},"order":0,},
-    {"id":{"name":"obj_ygor","path":"objects/obj_ygor/obj_ygor.yy",},"order":0,},
+    {"id":{"name":"spr_botao_play","path":"sprites/spr_botao_play/spr_botao_play.yy",},"order":7,},
+    {"id":{"name":"obj_ygor","path":"objects/obj_ygor/obj_ygor.yy",},"order":1,},
     {"id":{"name":"spr_max","path":"sprites/spr_max/spr_max.yy",},"order":6,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
-    {"id":{"name":"spr_upgrades","path":"sprites/spr_upgrades/spr_upgrades.yy",},"order":2,},
+    {"id":{"name":"spr_upgrade_canela","path":"sprites/spr_upgrade_canela/spr_upgrade_canela.yy",},"order":2,},
     {"id":{"name":"spr_borda_upgrades","path":"sprites/spr_borda_upgrades/spr_borda_upgrades.yy",},"order":1,},
     {"id":{"name":"spr_fundo_max","path":"sprites/spr_fundo_max/spr_fundo_max.yy",},"order":5,},
+    {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},"order":2,},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},"order":0,},
   ],
   "Options": [
@@ -32,6 +39,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "Folders": [
