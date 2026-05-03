@@ -1,9 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-botoes = "botoes"
-
-
-
-
-
+room_goto(rm_inicio)
