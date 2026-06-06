@@ -1,10 +1,12 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-if global.pontos = 50
+//SE global.pontos for maior que 50
+if global.pontos >= 50
 {
-global.pontos *= (2)
+	//ele perde 50 pontos
+	global.pontos -= 50
+	
+	global.clicks += 1
 
-global.pontos -= 50
 }
-
